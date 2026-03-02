@@ -19,5 +19,19 @@
     "title": "Welcome!",
     "section": "Next Steps",
     "text": "Next Steps\n\nEdit about.qmd with your info\nCreate a project post in posts/\nPush to main and your site will auto-deploy"
+  },
+  {
+    "objectID": "my-first-project/index.html",
+    "href": "my-first-project/index.html",
+    "title": "Predicting House Prices with Machine Learning",
+    "section": "",
+    "text": "This is your portfolio site. Start by editing this page and about.qmd to make it your own."
+  },
+  {
+    "objectID": "my-first-project/index.html#next-steps",
+    "href": "my-first-project/index.html#next-steps",
+    "title": "Predicting House Prices with Machine Learning",
+    "section": "Next Steps",
+    "text": "Next Steps\n\nEdit about.qmd with your info\nCreate a project post in posts/\nPush to main and your site will auto-deploy"
   }
 ]
