@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Heta Shah",
     "section": "",
-    "text": "I’m a Master’s student in Business Analytics at UC Irvine with a background in Computer Science, focused on turning data into actionable insights through analytics, machine learning, experimentation, and visualization.\n\nResume Projects Contact\n\n\n\n\n\n\n\nHeta Shah headshot"
+    "text": "Portfolio\n\n\n\n\n\nI’m a Master’s student in Business Analytics at UC Irvine with a background in Computer Science, focused on turning data into actionable insights through analytics, machine learning, experimentation, and visualization.\n\nView Projects Summary Contact\n\n\n\n\n\n\n\n\n\nHeta Shah headshot"
   },
   {
     "objectID": "index.html#data-analyst-business-analyst-machine-learning-nlp",
     "href": "index.html#data-analyst-business-analyst-machine-learning-nlp",
     "title": "Heta Shah",
     "section": "",
-    "text": "I’m a Master’s student in Business Analytics at UC Irvine with a background in Computer Science, focused on turning data into actionable insights through analytics, machine learning, experimentation, and visualization.\n\nResume Projects Contact"
+    "text": "I’m a Master’s student in Business Analytics at UC Irvine with a background in Computer Science, focused on turning data into actionable insights through analytics, machine learning, experimentation, and visualization.\n\nView Projects Summary Contact"
   },
   {
     "objectID": "index.html#summary",
@@ -25,21 +25,21 @@
     "href": "index.html#education",
     "title": "Heta Shah",
     "section": "Education",
-    "text": "Education\n\nUniversity of California, Irvine\nMaster of Science in Business Analytics\nJuly 2025 – June 2026\nRelevant coursework: Machine Learning Analytics, Data & Programming Analytics, Marketing Analytics, Statistics, Predictive Analytics, Business Data Management, Customer & Social Analytics, Management Science & Analytics\n\n\nRutgers University, Honors College\nBachelor of Science in Computer Science\nSeptember 2020 – May 2024\nRelevant coursework: Data Science, Linear Optimization, Information & Data Management, Marketing Fundamentals, Financial Accounting, Business Statistics"
+    "text": "Education\n\n\nUniversity of California, Irvine\nMaster of Science in Business Analytics\nJuly 2025 – June 2026\nRelevant coursework: Machine Learning Analytics, Data & Programming Analytics, Marketing Analytics, Statistics, Predictive Analytics, Business Data Management, Customer & Social Analytics, Management Science & Analytics\n\n\nRutgers University, Honors College\nBachelor of Science in Computer Science\nSeptember 2020 – May 2024\nRelevant coursework: Data Science, Linear Optimization, Information & Data Management, Marketing Fundamentals, Financial Accounting, Business Statistics"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
     "title": "Heta Shah",
     "section": "Experience",
-    "text": "Experience\n\nStudent Business Analyst — Cotality\nJanuary 2026 – Present\n\nExecuting an Intelligent Performance framework for a capstone project analyzing Sales Engineering impact within a 5,000-employee enterprise.\nIntegrating Salesforce CRM data with Gong conversational insights to evaluate technical sales performance.\nDeveloping and validating an NLP-based proof of concept to identify behavioral patterns in technical discovery.\nTranslating findings into recommendations for leadership focused on win rates, sales velocity, and technical sales lifecycle improvement.\n\n\n\nBusiness Analyst Intern — AiVantage.Global\nMay 2025 – July 2025\n\nGathered and documented functional, data, and workflow requirements for a client-facing AI marketing platform.\nSupported A/B testing and experimentation across targeting and segmentation variants.\nBuilt dashboards and executive-ready reports tracking campaign performance, delivery errors, and engagement metrics.\nIdentified edge cases that contributed to multiple product and process improvements.\n\n\n\nUI/UX Designer I — AiVantage.Global\nJune 2024 – April 2025\n\nDesigned and iterated an AI marketing platform in Figma through research, wireframing, prototyping, and high-fidelity UI design.\nImproved user engagement, onboarding efficiency, and stakeholder approval speed through iterative design decisions.\nConducted usability testing and refined workflows to reduce task completion errors.\nCollaborated across Product, Engineering, and Marketing to turn ambiguous requirements into user-centered solutions."
+    "text": "Experience\n\n\nStudent Business Analyst — Cotality\nJanuary 2026 – Present\n\nExecuting an Intelligent Performance framework for a capstone project analyzing Sales Engineering impact within a 5,000-employee enterprise.\nIntegrating Salesforce CRM data with Gong conversational insights to evaluate technical sales performance.\nDeveloping and validating an NLP-based proof of concept to identify behavioral patterns in technical discovery.\nTranslating findings into recommendations for leadership focused on win rates, sales velocity, and technical sales lifecycle improvement.\n\n\n\nBusiness Analyst Intern — AiVantage.Global\nMay 2025 – July 2025\n\nGathered and documented functional, data, and workflow requirements for a client-facing AI marketing platform.\nSupported A/B testing and experimentation across targeting and segmentation variants.\nBuilt dashboards and executive-ready reports tracking campaign performance, delivery errors, and engagement metrics.\nIdentified edge cases that contributed to multiple product and process improvements.\n\n\n\nUI/UX Designer I — AiVantage.Global\nJune 2024 – April 2025\n\nDesigned and iterated an AI marketing platform in Figma through research, wireframing, prototyping, and high-fidelity UI design.\nImproved user engagement, onboarding efficiency, and stakeholder approval speed through iterative design decisions.\nConducted usability testing and refined workflows to reduce task completion errors.\nCollaborated across Product, Engineering, and Marketing to turn ambiguous requirements into user-centered solutions."
   },
   {
     "objectID": "index.html#projects",
     "href": "index.html#projects",
     "title": "Heta Shah",
     "section": "Projects",
-    "text": "Projects\n\n\nSong Popularity Prediction Model\nPython | NLP | Machine Learning\nBuilt a machine learning model to predict song popularity using lyrical data and Spotify metadata. Engineered text-based features including sentiment, rhyme density, and song structure, then evaluated multiple models through cross-validation.\nHighlights - Combined unstructured text features with contextual metadata - Compared model performance across multiple approaches - Found that structural and metadata features outperformed lyrics alone\n\n\nDiabetes Risk Prediction Using Ensemble Learning\nPython | Classification | Feature Engineering\nBuilt and evaluated an ensemble learning pipeline on a 10K-record healthcare dataset to predict diabetes risk. Applied preprocessing, outlier handling, one-hot encoding, and SMOTE to improve predictive performance and class balance.\nHighlights - Improved performance over individual models - Increased recall by prioritizing false-negative reduction - Designed the workflow for stronger early-risk identification\n\n\nSales Engineering NLP Analysis\nNLP | CRM Analytics | Business Insights\nDeveloping an NLP-based proof of concept to analyze behavioral patterns in technical discovery conversations by combining CRM and conversation intelligence data.\nHighlights - Connects structured and unstructured enterprise data - Supports executive decision-making - Focused on win rate and sales velocity insights"
+    "text": "Projects\n\n\nSong Popularity Prediction Model\n\nPython NLP Machine Learning\n\nBuilt a machine learning model to predict song popularity using lyrical data and Spotify metadata. Engineered text-based features including sentiment, rhyme density, and song structure, then evaluated multiple models through cross-validation.\nHighlights - Combined unstructured text features with contextual metadata - Compared model performance across multiple approaches - Found that structural and metadata features outperformed lyrics alone\n\n\nDiabetes Risk Prediction Using Ensemble Learning\n\nPython Classification Feature Engineering\n\nBuilt and evaluated an ensemble learning pipeline on a 10K-record healthcare dataset to predict diabetes risk. Applied preprocessing, outlier handling, one-hot encoding, and SMOTE to improve predictive performance and class balance.\nHighlights - Improved performance over individual models - Increased recall by prioritizing false-negative reduction - Designed the workflow for stronger early-risk identification\n\n\nSales Engineering NLP Analysis\n\nNLP CRM Analytics Business Insights\n\nDeveloping an NLP-based proof of concept to analyze behavioral patterns in technical discovery conversations by combining CRM and conversation intelligence data.\nHighlights - Connects structured and unstructured enterprise data - Supports executive decision-making - Focused on win rate and sales velocity insights"
   },
   {
     "objectID": "index.html#skills",
@@ -53,7 +53,7 @@
     "href": "index.html#contact",
     "title": "Heta Shah",
     "section": "Contact",
-    "text": "Contact\n\nEmail: hetaskz@gmail.com\nGitHub: github.com/hetashah34\nLinkedIn: linkedin.com/in/hetashah34\nLocation: Irvine, CA"
+    "text": "Contact\n\nEmail: hetaskz@gmail.com\nGitHub: github.com/hetashah34\nLinkedIn: Add your LinkedIn link here\nLocation: Irvine, CA"
   },
   {
     "objectID": "my-first-project/index.html",
