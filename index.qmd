@@ -1,11 +1,52 @@
+# Heta Shah
+
+MS in Business Analytics @ UC Irvine  
+Data Analyst | Machine Learning | NLP
+
 ---
-title: "Welcome!"
+
+## About Me
+
+I’m a data-driven analyst with a background in computer science and business analytics. I specialize in machine learning, NLP, and data visualization to drive actionable insights and support decision-making.
+
 ---
 
-This is your portfolio site. Start by editing this page and `about.qmd` to make it your own.
+## Experience
 
-## Next Steps
+### Student Business Analyst – Cotality
+- Built an NLP-based model to analyze sales engineering conversations
+- Integrated Salesforce and Gong data for performance insights
+- Delivered recommendations to improve win rates and sales velocity
 
-- Edit `about.qmd` with your info
-- Create a project post in `posts/`
-- Push to `main` and your site will auto-deploy
+### Business Analyst Intern – AiVantage.Global
+- Conducted A/B testing and improved campaign performance
+- Built dashboards for stakeholder decision-making
+- Identified product improvements through data analysis
+
+---
+
+## Projects
+
+### Song Popularity Prediction
+- NLP + ML model using Spotify + lyrical data
+- Engineered sentiment and structural features
+
+### Diabetes Risk Prediction
+- Ensemble ML model with SMOTE and feature engineering
+- Improved recall and prediction accuracy
+
+---
+
+## Skills
+
+**Languages:** Python, R, SQL  
+**Tools:** Tableau, Power BI, Excel  
+**Platforms:** Databricks, Snowflake, SAS  
+
+---
+
+## Contact
+
+Email: hetaskz@gmail.com  
+GitHub: https://github.com/hetashah34  
+LinkedIn: (add your link)
