@@ -1,24 +1,45 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome!",
+    "title": "Heta Shah",
     "section": "",
-    "text": "This is your portfolio site. Start by editing this page and about.qmd to make it your own."
+    "text": "MS in Business Analytics @ UC Irvine\nData Analyst | Machine Learning | NLP\n\n\n\nI’m a data-driven analyst with a background in computer science and business analytics. I specialize in machine learning, NLP, and data visualization to drive actionable insights and support decision-making.\n\n\n\n\n\n\n\nBuilt an NLP-based model to analyze sales engineering conversations\nIntegrated Salesforce and Gong data for performance insights\nDelivered recommendations to improve win rates and sales velocity\n\n\n\n\n\nConducted A/B testing and improved campaign performance\nBuilt dashboards for stakeholder decision-making\nIdentified product improvements through data analysis\n\n\n\n\n\n\n\n\n\nNLP + ML model using Spotify + lyrical data\nEngineered sentiment and structural features\n\n\n\n\n\nEnsemble ML model with SMOTE and feature engineering\nImproved recall and prediction accuracy\n\n\n\n\n\n\nLanguages: Python, R, SQL\nTools: Tableau, Power BI, Excel\nPlatforms: Databricks, Snowflake, SAS\n\n\n\n\nEmail: hetaskz@gmail.com\nGitHub: https://github.com/hetashah34\nLinkedIn: (add your link)"
   },
   {
-    "objectID": "index.html#next-steps",
-    "href": "index.html#next-steps",
-    "title": "Welcome!",
-    "section": "Next Steps",
-    "text": "Next Steps\n\nEdit about.qmd with your info\nCreate a project post in posts/\nPush to main and your site will auto-deploy"
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Heta Shah",
+    "section": "",
+    "text": "I’m a data-driven analyst with a background in computer science and business analytics. I specialize in machine learning, NLP, and data visualization to drive actionable insights and support decision-making."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Heta Shah",
+    "section": "",
+    "text": "Built an NLP-based model to analyze sales engineering conversations\nIntegrated Salesforce and Gong data for performance insights\nDelivered recommendations to improve win rates and sales velocity\n\n\n\n\n\nConducted A/B testing and improved campaign performance\nBuilt dashboards for stakeholder decision-making\nIdentified product improvements through data analysis"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Heta Shah",
+    "section": "",
+    "text": "NLP + ML model using Spotify + lyrical data\nEngineered sentiment and structural features\n\n\n\n\n\nEnsemble ML model with SMOTE and feature engineering\nImproved recall and prediction accuracy"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Heta Shah",
+    "section": "",
+    "text": "Languages: Python, R, SQL\nTools: Tableau, Power BI, Excel\nPlatforms: Databricks, Snowflake, SAS"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Heta Shah",
+    "section": "",
+    "text": "Email: hetaskz@gmail.com\nGitHub: https://github.com/hetashah34\nLinkedIn: (add your link)"
   },
   {
     "objectID": "my-first-project/index.html",
@@ -33,5 +54,12 @@
     "title": "Predicting House Prices with Machine Learning",
     "section": "Next Steps",
     "text": "Next Steps\n\nEdit about.qmd with your info\nCreate a project post in posts/\nPush to main and your site will auto-deploy"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?"
   }
 ]
