@@ -2,17 +2,24 @@ project:
   type: website
 
 website:
-  title: "My Portfolio"
+  title: "Heta Shah"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - href: my-first-project/index.qmd
+      - href: "#summary"
+        text: Summary
+      - href: "#experience"
+        text: Experience
+      - href: "#projects"
         text: Projects
+      - href: "#contact"
+        text: Contact
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
+
+editor: visual

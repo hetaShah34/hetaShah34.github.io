@@ -1,52 +1,147 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+::: {.hero-text}
 # Heta Shah
 
-MS in Business Analytics @ UC Irvine  
-Data Analyst | Machine Learning | NLP
+## Data Analyst | Business Analyst | Machine Learning & NLP
 
----
+I’m a Master’s student in Business Analytics at UC Irvine with a background in Computer Science, focused on turning data into actionable insights through analytics, machine learning, experimentation, and visualization.
 
-## About Me
+::: {.hero-buttons}
+[Resume](#contact){.btn-primary}
+[Projects](#projects){.btn-secondary}
+[Contact](#contact){.btn-secondary}
+:::
+:::
 
-I’m a data-driven analyst with a background in computer science and business analytics. I specialize in machine learning, NLP, and data visualization to drive actionable insights and support decision-making.
+::: {.hero-image}
+![Heta Shah headshot](images/profile.jpg){.profile-photo}
+:::
+:::
 
----
+## Summary {#summary}
 
-## Experience
+I bring a hybrid background across analytics, machine learning, business problem-solving, and product thinking. My experience spans NLP-based analysis, dashboarding, experimentation, UI/UX collaboration, and stakeholder-facing insights. I’m especially interested in roles where I can connect data, business context, and communication to drive better decisions.
 
-### Student Business Analyst – Cotality
-- Built an NLP-based model to analyze sales engineering conversations
-- Integrated Salesforce and Gong data for performance insights
-- Delivered recommendations to improve win rates and sales velocity
+## Education {#education}
 
-### Business Analyst Intern – AiVantage.Global
-- Conducted A/B testing and improved campaign performance
-- Built dashboards for stakeholder decision-making
-- Identified product improvements through data analysis
+### University of California, Irvine
+**Master of Science in Business Analytics**  
+*July 2025 – June 2026*
 
----
+Relevant coursework: Machine Learning Analytics, Data & Programming Analytics, Marketing Analytics, Statistics, Predictive Analytics, Business Data Management, Customer & Social Analytics, Management Science & Analytics
 
-## Projects
+### Rutgers University, Honors College
+**Bachelor of Science in Computer Science**  
+*September 2020 – May 2024*
 
-### Song Popularity Prediction
-- NLP + ML model using Spotify + lyrical data
-- Engineered sentiment and structural features
+Relevant coursework: Data Science, Linear Optimization, Information & Data Management, Marketing Fundamentals, Financial Accounting, Business Statistics
 
-### Diabetes Risk Prediction
-- Ensemble ML model with SMOTE and feature engineering
-- Improved recall and prediction accuracy
+## Experience {#experience}
 
----
+### Student Business Analyst — Cotality
+*January 2026 – Present*
 
-## Skills
+- Executing an Intelligent Performance framework for a capstone project analyzing Sales Engineering impact within a 5,000-employee enterprise.
+- Integrating Salesforce CRM data with Gong conversational insights to evaluate technical sales performance.
+- Developing and validating an NLP-based proof of concept to identify behavioral patterns in technical discovery.
+- Translating findings into recommendations for leadership focused on win rates, sales velocity, and technical sales lifecycle improvement.
 
-**Languages:** Python, R, SQL  
-**Tools:** Tableau, Power BI, Excel  
-**Platforms:** Databricks, Snowflake, SAS  
+### Business Analyst Intern — AiVantage.Global
+*May 2025 – July 2025*
 
----
+- Gathered and documented functional, data, and workflow requirements for a client-facing AI marketing platform.
+- Supported A/B testing and experimentation across targeting and segmentation variants.
+- Built dashboards and executive-ready reports tracking campaign performance, delivery errors, and engagement metrics.
+- Identified edge cases that contributed to multiple product and process improvements.
 
-## Contact
+### UI/UX Designer I — AiVantage.Global
+*June 2024 – April 2025*
 
-Email: hetaskz@gmail.com  
-GitHub: https://github.com/hetashah34  
-LinkedIn: (add your link)
+- Designed and iterated an AI marketing platform in Figma through research, wireframing, prototyping, and high-fidelity UI design.
+- Improved user engagement, onboarding efficiency, and stakeholder approval speed through iterative design decisions.
+- Conducted usability testing and refined workflows to reduce task completion errors.
+- Collaborated across Product, Engineering, and Marketing to turn ambiguous requirements into user-centered solutions.
+
+## Projects {#projects}
+
+::: {.project-grid}
+
+::: {.project-card}
+### Song Popularity Prediction Model
+
+**Python | NLP | Machine Learning**
+
+Built a machine learning model to predict song popularity using lyrical data and Spotify metadata. Engineered text-based features including sentiment, rhyme density, and song structure, then evaluated multiple models through cross-validation.
+
+**Highlights**
+- Combined unstructured text features with contextual metadata
+- Compared model performance across multiple approaches
+- Found that structural and metadata features outperformed lyrics alone
+:::
+
+::: {.project-card}
+### Diabetes Risk Prediction Using Ensemble Learning
+
+**Python | Classification | Feature Engineering**
+
+Built and evaluated an ensemble learning pipeline on a 10K-record healthcare dataset to predict diabetes risk. Applied preprocessing, outlier handling, one-hot encoding, and SMOTE to improve predictive performance and class balance.
+
+**Highlights**
+- Improved performance over individual models
+- Increased recall by prioritizing false-negative reduction
+- Designed the workflow for stronger early-risk identification
+:::
+
+::: {.project-card}
+### Sales Engineering NLP Analysis
+
+**NLP | CRM Analytics | Business Insights**
+
+Developing an NLP-based proof of concept to analyze behavioral patterns in technical discovery conversations by combining CRM and conversation intelligence data.
+
+**Highlights**
+- Connects structured and unstructured enterprise data
+- Supports executive decision-making
+- Focused on win rate and sales velocity insights
+:::
+
+:::
+
+## Skills {#skills}
+
+::: {.skills-grid}
+
+::: {.skill-box}
+### Programming & Query
+Python, R, SQL
+:::
+
+::: {.skill-box}
+### Analytics & BI
+Tableau, Power BI, Excel, SPSS
+:::
+
+::: {.skill-box}
+### Data Platforms & Tools
+Databricks, Snowflake, SAS, Google Analytics, Git
+:::
+
+::: {.skill-box}
+### Core Strengths
+Statistical Analysis, Data Modeling, Dashboarding, KPI Analysis, Data Visualization, Cross-Functional Collaboration
+:::
+
+:::
+
+## Contact {#contact}
+
+- **Email:** hetaskz@gmail.com
+- **GitHub:** [github.com/hetashah34](https://github.com/hetashah34)
+- **LinkedIn:** [linkedin.com/in/hetashah34](https://linkedin.com/in/hetashah34)
+- **Location:** Irvine, CA

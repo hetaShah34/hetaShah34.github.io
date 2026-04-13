@@ -1,15 +1,13 @@
 ---
 title: "About Me"
-image: profile.jpg
-about:
-  template: jolla
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: GitHub
-      href: https://github.com
 ---
 
-Replace this text with a short bio about yourself. What are you studying? What are you interested in? What do you want to work on?
+# About Me
+
+I’m Heta Shah, a Business Analytics graduate student at UC Irvine with a background in Computer Science and experience across analytics, machine learning, experimentation, and product-oriented problem solving.
+
+My interests sit at the intersection of data, business strategy, and communication. I enjoy working on projects where I can uncover patterns, build practical solutions, and present insights clearly for decision-makers.
+
+I’ve worked on business analysis, dashboarding, NLP-focused analysis, A/B testing support, and UX-driven problem solving. Across these experiences, I’ve learned how to translate ambiguous questions into structured analysis and meaningful outcomes.
+
+Outside of technical work, I value collaboration, curiosity, and building thoughtful solutions that are both useful and easy to understand.
